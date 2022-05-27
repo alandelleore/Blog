@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Blog (rutas dinámicas)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Implemenación de REACT ROUTER 6 , useParams, searchParams, fetch.
+API utilizada : https://jsonplaceholder.typicode.com/
+
+https://blogrr6.netlify.app/
 
 ## Available Scripts
 
